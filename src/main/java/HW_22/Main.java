@@ -31,7 +31,7 @@ public class Main {
                 .setCountryOrigin("Columbia ")
                 .setCropYear(2017)
                 .setCoffeePrice("300$ ")
-                .setDispatchCountry("Poland ")
+                .setDispatchCountry("England ")
                 .setRoastingType("Black ")
             .build();
         System.out.println(coffeeBrazil.getDispatchCountry() + coffeeBrazil.getCropYear());
